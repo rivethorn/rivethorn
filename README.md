@@ -1,6 +1,5 @@
-<div align="center">
-    <img src="./banner.png" alt="Hassan Qasemi Banner" width="100%" height="200" style="object-fit: cover;">
-</div>
+<img src="./banner.png" alt="Hassan Qasemi Banner" width="100%">
+
 
 ```
 I'm Hassan,
