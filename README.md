@@ -4,16 +4,7 @@
 
 #### I write about my work and journey [over here](https://rivethorn.is-a.dev)
 
-I also make CLI tools with
-
-![Static Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-
-and sometimes with
-
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv)
-
-I Also also work with
+I also do Web Dev with
 
 ![Static Badge](https://img.shields.io/badge/Vue.JS-black?style=for-the-badge&logo=vuedotjs)
 ![Static Badge](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt)
@@ -23,3 +14,12 @@ I Also also work with
 and sometimes write APIs with
 
 ![Static Badge](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+
+I Also also make CLI tools with
+
+![Static Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+
+and sometimes with
+
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Static Badge](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv)
