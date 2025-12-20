@@ -15,7 +15,7 @@ and sometimes write APIs with
 
 ![Static Badge](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
-I Also also make CLI tools with
+I Also also like to make stuff with
 
 ![Static Badge](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
 
