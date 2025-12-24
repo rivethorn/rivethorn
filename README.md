@@ -1,5 +1,3 @@
-<img src="./banner.png" alt="Hassan Qasemi Banner" width="100%">
-
 ### Software Engineer and Web Developer
 
 #### I write about my work and journey [over here](https://rivethorn.is-a.dev)
