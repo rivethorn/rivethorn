@@ -21,3 +21,6 @@ and sometimes with
 
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Static Badge](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv)
+
+<!-- my-badges start -->
+<!-- my-badges end -->
