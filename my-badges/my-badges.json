@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/rivethorn/AoC/commit/a6081d26fd4b621b95db51a77297bb59611115ef\"><strong>a</strong>6081d26fd4b621b95db51a77297bb59611115ef</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "bad-words",
+    "tier": 0,
+    "desc": "I used a word \"fuck\" in my commit message.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/4b9701511361efbcfacb43df88f9930e3b16a9ab\">4b97015</a>: chore: fucking npm",
+    "image": "https://my-badges.github.io/my-badges/bad-words.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/rivethorn/nuch/commit/3e17eecd1f0697f4e74dc066ce2cafe6ad4d548d\">3e17eecd1f0697f4e74dc066ce2<strong>cafe</strong>6ad4d548d</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch-docs/commit/c9172db970bf97560561349dfd8b4a57ef871cac\">c9172db</a>: chore: update deps",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/humline/commit/183d2a3a3ab9293aa5eeb4d3ec97c2b46d060fae\">183d2a3</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/6c93b74ea07e79c3f1438931c6f395cd54e8e1f8\">6c93b74</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 105 times)\n2. update (used 66 times)\n3. readme.md (used 52 times)\n4. fix (used 40 times)\n5. file (used 24 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/816292b340bf06fd5257569b9a6fcf1560fbd830\">816292b</a>: fix color flake\n- <a href=\"https://github.com/rivethorn/hq/commit/a1db60bfa6e40a0f6f1180589e925bc3f7dc8357\">a1db60b</a>: fix link",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/41296c11113e7aa05e09f3b167b0f92e3da87ece\">41296c1</a>: fix loading anim\n- <a href=\"https://github.com/rivethorn/hq/commit/415f20f0ea0b0246ee372735027037c697200fff\">415f20f</a>: fix responsive\n- <a href=\"https://github.com/rivethorn/hq/commit/c72f592c1fd21c727d131f18f034d922c50ede9c\">c72f592</a>: fix radius",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch-docs/commit/13d8483f0e76c02bf4577cae907ff1806eb6badc\">13d8483</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch/commit/357c6bf3bf666f10d3c62e2581b71a5f98ee689c\">357c6bf</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/2eb734d57a9276e2c55fb8dfe967c614f7ef8869\">2eb734d</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/9ecd6b9849371ee3f1851889da64c37c8046dcc0\">9ecd6b9</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/cab72121d8e1a507658a3151acb6bee40adbf73f\">cab7212</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/8fa9c4a52f2eceffe3a83054235ce0792dee13a4\">8fa9c4a</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/9f3e6570decb7c4d8687f9074948d7aebd61bca8\">9f3e657</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/rivethorn/nuch/pull/1\">#1</a>: Add Collections handling",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c\">353e4cf</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/76f8d84448090973e3eeaa4e240972a5a5ba29c6\">76f8d84</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/11d1534a3926d7629de343144a97add34d7b19c8\">11d1534</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/2dd8f9fb82591bc3bca153e6634acf76f6b5d2b3\">2dd8f9f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/488dce19841bf0cdcf25a5630deb5b4441f49453\">488dce1</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/3e98602f511eb63d678f04b518eb35d94d1d9602\">3e98602</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/2a239be6c6403c0b544d0bcdc22aceb9deb16213\">2a239be</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch/commit/a4e9b735d675e0081e97adbafb5e72478e4428b9\">a4e9b73</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/6ab9b3d323b4f224e465737c8e71fce05787e092\">6ab9b3d</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
