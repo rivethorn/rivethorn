@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 105 times)\n2. update (used 66 times)\n3. readme.md (used 52 times)\n4. fix (used 40 times)\n5. file (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 110 times)\n2. update (used 68 times)\n3. readme.md (used 55 times)\n4. fix (used 42 times)\n5. file (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/oxa/commit/c65f5f2ce06b3812634608425ce274535bc5d135\">c65f5f2</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/a1a2d7302a91b2d9ec237d4c94619ef4f7ad551d\">a1a2d73</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/b04a0c18a097b075a6e4009035f9cacd7ed6a85f\">b04a0c1</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/ac616d03c2fce21265fb324ee7c4882cf61d54dc\">ac616d0</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/8e6d16100533238bb99666ea3d6e9423240c9ed6\">8e6d161</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/de729745ab1ef22e720bfd70846f9f687b1b1fdc\">de72974</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/76f8d84448090973e3eeaa4e240972a5a5ba29c6\">76f8d84</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/11d1534a3926d7629de343144a97add34d7b19c8\">11d1534</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/2dd8f9fb82591bc3bca153e6634acf76f6b5d2b3\">2dd8f9f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/488dce19841bf0cdcf25a5630deb5b4441f49453\">488dce1</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/3e98602f511eb63d678f04b518eb35d94d1d9602\">3e98602</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/2a239be6c6403c0b544d0bcdc22aceb9deb16213\">2a239be</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/ghoauth-rs/commit/b6940415e31ea1942833072b740b35f88b10449d\">b694041</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/76f8d84448090973e3eeaa4e240972a5a5ba29c6\">76f8d84</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/11d1534a3926d7629de343144a97add34d7b19c8\">11d1534</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/2dd8f9fb82591bc3bca153e6634acf76f6b5d2b3\">2dd8f9f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/488dce19841bf0cdcf25a5630deb5b4441f49453\">488dce1</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/3e98602f511eb63d678f04b518eb35d94d1d9602\">3e98602</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
