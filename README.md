@@ -6,12 +6,13 @@ I also do Web Dev with
 
 ![Static Badge](https://img.shields.io/badge/Vue.JS-black?style=for-the-badge&logo=vuedotjs)
 ![Static Badge](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt)
+![Static Badge](https://img.shields.io/badge/React-%20black?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js)
+
+and do most of my other stuff with
+
 ![Static Badge](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun)
-
-and sometimes write APIs with
-
-![Static Badge](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
 I Also also like to make stuff with
 
