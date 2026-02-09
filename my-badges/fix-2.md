@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/rivethorn/hq/commit/816292b340bf06fd5257569b9a6fcf1560fbd830">816292b</a>: fix color flake
-- <a href="https://github.com/rivethorn/hq/commit/a1db60bfa6e40a0f6f1180589e925bc3f7dc8357">a1db60b</a>: fix link
+- <a href="https://github.com/nuiuxco/nima/commit/a753cba4671b6c6c97d1afe2369709f91c3b6d32">a753cba</a>: fix ci
+- <a href="https://github.com/nuiuxco/nima/commit/a1b88c9c1085ab251e01eb5b84a61b9f576882cc">a1b88c9</a>: fix name
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
