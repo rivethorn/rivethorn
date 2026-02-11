@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/humline/commit/183d2a3a3ab9293aa5eeb4d3ec97c2b46d060fae\">183d2a3</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/6c93b74ea07e79c3f1438931c6f395cd54e8e1f8\">6c93b74</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch/commit/6c93b74ea07e79c3f1438931c6f395cd54e8e1f8\">6c93b74</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 116 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 44 times)\n5. remove (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 88 times)\n2. update (used 70 times)\n3. readme.md (used 57 times)\n4. fix (used 43 times)\n5. remove (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/oxa/commit/c65f5f2ce06b3812634608425ce274535bc5d135\">c65f5f2</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/a1a2d7302a91b2d9ec237d4c94619ef4f7ad551d\">a1a2d73</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/b04a0c18a097b075a6e4009035f9cacd7ed6a85f\">b04a0c1</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/ac616d03c2fce21265fb324ee7c4882cf61d54dc\">ac616d0</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/8e6d16100533238bb99666ea3d6e9423240c9ed6\">8e6d161</a>\n- <a href=\"https://github.com/rivethorn/oxa/commit/de729745ab1ef22e720bfd70846f9f687b1b1fdc\">de72974</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
