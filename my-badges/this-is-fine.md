@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/rivethorn/nuch/pull/1">#1</a>: Add Collections handling
+- <a href="https://github.com/rivethorn/hq/pull/2">#2</a>: blog to portfolio
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
