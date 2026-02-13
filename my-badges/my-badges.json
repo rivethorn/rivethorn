@@ -38,14 +38,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 103 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 53 times)\n5. remove (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 103 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 54 times)\n5. remove (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nuiuxco/nima/commit/a753cba4671b6c6c97d1afe2369709f91c3b6d32\">a753cba</a>: fix ci\n- <a href=\"https://github.com/nuiuxco/nima/commit/a1b88c9c1085ab251e01eb5b84a61b9f576882cc\">a1b88c9</a>: fix name",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nimadesign/nima/commit/a753cba4671b6c6c97d1afe2369709f91c3b6d32\">a753cba</a>: fix ci\n- <a href=\"https://github.com/nimadesign/nima/commit/a1b88c9c1085ab251e01eb5b84a61b9f576882cc\">a1b88c9</a>: fix name",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
