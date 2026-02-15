@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 103 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 54 times)\n5. remove (used 29 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 108 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 54 times)\n5. remove (used 29 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008\">9f75543</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb\">4cea76f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51\">67da27b</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/ea6defe0dbd9f6718df5eff76979778a2cc14aff\">ea6defe</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/f62aa60180fd41f12eea1728b4ed6b2639505b91\">f62aa60</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/377ff4841a9f0e6c737da3226c4fbeb93f602f05\">377ff48</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/aa4e351f0e6a5a8936d7f4ec89827b323742cd8f\">aa4e351</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008\">9f75543</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb\">4cea76f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51\">67da27b</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/ea6defe0dbd9f6718df5eff76979778a2cc14aff\">ea6defe</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/f62aa60180fd41f12eea1728b4ed6b2639505b91\">f62aa60</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
