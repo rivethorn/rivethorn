@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 108 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 57 times)\n5. remove (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 109 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 57 times)\n5. remove (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c\">353e4cf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/722d712592c44f6ad60c95e8d8272921e10e967b\">722d712</a>\n- <a href=\"https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c\">353e4cf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
