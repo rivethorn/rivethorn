@@ -38,14 +38,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 109 times)\n2. update (used 71 times)\n3. readme.md (used 57 times)\n4. fix (used 57 times)\n5. remove (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 119 times)\n2. update (used 80 times)\n3. fix (used 64 times)\n4. readme.md (used 58 times)\n5. remove (used 30 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/nimadesign/nima/commit/a753cba4671b6c6c97d1afe2369709f91c3b6d32\">a753cba</a>: fix ci\n- <a href=\"https://github.com/nimadesign/nima/commit/a1b88c9c1085ab251e01eb5b84a61b9f576882cc\">a1b88c9</a>: fix name",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/d01820ed00e0c9ed6ce3a33a302c28c6ee471c08\">d01820e</a>: fix sent remark to admin\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/2ffb61e98549a2d8f7369226c99c357a04f6eb70\">2ffb61e</a>: fix list condition",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -87,21 +87,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/7f6abd889d39fca6d5f94013502122b0b6f96ba6\">7f6abd8</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/5027a19250a148ce8364ef97b593c27a7f3a4075\">5027a19</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/d7eada73f0bbba2cebe4036ec1b8f4a4472b2335\">d7eada7</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/991c380027cfd1e224d4f88ab82aef3430ee9524\">991c380</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/b40a40cb95df292abb2aae9d3e59e5850d0d7cb3\">b40a40c</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/c7652724465dd1cba6495f3d1cc63a2c07371b89\">c765272</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/722d712592c44f6ad60c95e8d8272921e10e967b\">722d712</a>\n- <a href=\"https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c\">353e4cf</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/722d712592c44f6ad60c95e8d8272921e10e967b\">722d712</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/326231c047d5762dda5158affdb59762acc0c31c\">326231c</a>\n- <a href=\"https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c\">353e4cf</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/hq/commit/aa4e351f0e6a5a8936d7f4ec89827b323742cd8f\">aa4e351</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008\">9f75543</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb\">4cea76f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51\">67da27b</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/ea6defe0dbd9f6718df5eff76979778a2cc14aff\">ea6defe</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/f62aa60180fd41f12eea1728b4ed6b2639505b91\">f62aa60</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/dc5b5381515e9a49ec9ad302e1d0685c3438f25a\">dc5b538</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/e4e1ce1dfaef0a07712d900b8c58f7b8fc5ad0d2\">e4e1ce1</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/f85fabcef1691499ea84b7f5a9b9b271870a4e7d\">f85fabc</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/126bb1e9667aa52a06bb6944fbd11a7af42b9ae7\">126bb1e</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/7c79a1a07e2812a3ab8904f868355061c18f65f6\">7c79a1a</a>\n- <a href=\"https://github.com/rivethorn/foxng-bot/commit/d01820ed00e0c9ed6ce3a33a302c28c6ee471c08\">d01820e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch/commit/a4e9b735d675e0081e97adbafb5e72478e4428b9\">a4e9b73</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/6ab9b3d323b4f224e465737c8e71fce05787e092\">6ab9b3d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/rivethorn/foxng-bot/commit/8395205775dead57eecf0d0d2c74d934db938765\">8395205775<strong>dead</strong>57eecf0d0d2c74d934db938765</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   }
 ]
