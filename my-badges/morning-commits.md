@@ -5,7 +5,6 @@
 Commits:
 
 - <a href="https://github.com/rivethorn/hq/commit/722d712592c44f6ad60c95e8d8272921e10e967b">722d712</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/326231c047d5762dda5158affdb59762acc0c31c">326231c</a>
 - <a href="https://github.com/rivethorn/rivethorn/commit/353e4cfe513b94d663c1e145751d66391d85005c">353e4cf</a>
 
 

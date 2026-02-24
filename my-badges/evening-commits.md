@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/rivethorn/foxng-bot/commit/dc5b5381515e9a49ec9ad302e1d0685c3438f25a">dc5b538</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/e4e1ce1dfaef0a07712d900b8c58f7b8fc5ad0d2">e4e1ce1</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/f85fabcef1691499ea84b7f5a9b9b271870a4e7d">f85fabc</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/126bb1e9667aa52a06bb6944fbd11a7af42b9ae7">126bb1e</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/7c79a1a07e2812a3ab8904f868355061c18f65f6">7c79a1a</a>
-- <a href="https://github.com/rivethorn/foxng-bot/commit/d01820ed00e0c9ed6ce3a33a302c28c6ee471c08">d01820e</a>
+- <a href="https://github.com/rivethorn/sh-bot/commit/dd48e5576598e6f991821343336b9f6f220488ce">dd48e55</a>
+- <a href="https://github.com/rivethorn/hq/commit/aa4e351f0e6a5a8936d7f4ec89827b323742cd8f">aa4e351</a>
+- <a href="https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008">9f75543</a>
+- <a href="https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb">4cea76f</a>
+- <a href="https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51">67da27b</a>
+- <a href="https://github.com/rivethorn/hq/commit/ea6defe0dbd9f6718df5eff76979778a2cc14aff">ea6defe</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

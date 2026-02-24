@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/rivethorn/foxng-bot/commit/d01820ed00e0c9ed6ce3a33a302c28c6ee471c08">d01820e</a>: fix sent remark to admin
-- <a href="https://github.com/rivethorn/foxng-bot/commit/2ffb61e98549a2d8f7369226c99c357a04f6eb70">2ffb61e</a>: fix list condition
+- <a href="https://github.com/nimadesign/nima/commit/a753cba4671b6c6c97d1afe2369709f91c3b6d32">a753cba</a>: fix ci
+- <a href="https://github.com/nimadesign/nima/commit/a1b88c9c1085ab251e01eb5b84a61b9f576882cc">a1b88c9</a>: fix name
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
