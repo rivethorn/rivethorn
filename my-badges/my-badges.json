@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/sh-bot/commit/dd48e5576598e6f991821343336b9f6f220488ce\">dd48e55</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/aa4e351f0e6a5a8936d7f4ec89827b323742cd8f\">aa4e351</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008\">9f75543</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb\">4cea76f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51\">67da27b</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/ea6defe0dbd9f6718df5eff76979778a2cc14aff\">ea6defe</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/veezo/commit/de47554ced14ef4d6717ba149c53db7ecabf7266\">de47554</a>\n- <a href=\"https://github.com/rivethorn/sh-bot/commit/dd48e5576598e6f991821343336b9f6f220488ce\">dd48e55</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/aa4e351f0e6a5a8936d7f4ec89827b323742cd8f\">aa4e351</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/9f75543997622d66e2c87a4d8779944a85d4c008\">9f75543</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/4cea76fdcfca305c3e664ec88c40f918a8dbf1cb\">4cea76f</a>\n- <a href=\"https://github.com/rivethorn/hq/commit/67da27b660b5f0086f460a0c00dbac603a39ae51\">67da27b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -110,5 +110,19 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/nuch/commit/a4e9b735d675e0081e97adbafb5e72478e4428b9\">a4e9b73</a>\n- <a href=\"https://github.com/rivethorn/nuch/commit/6ab9b3d323b4f224e465737c8e71fce05787e092\">6ab9b3d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/veezo/commit/de47554ced14ef4d6717ba149c53db7ecabf7266\">de47554</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/veezo/commit/3c89bf6922c55e99d31a368e385e62876eb6134d\">3c89bf6</a>\n- <a href=\"https://github.com/rivethorn/veezo/commit/e82ffdd8301aba6cbd9446c2b180d16b7ae64a2d\">e82ffdd</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
