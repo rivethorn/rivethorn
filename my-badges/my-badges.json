@@ -63,13 +63,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "winter-solstice-commits",
     "tier": 0,
     "desc": "I commit in the Winter solstice.",
@@ -124,5 +117,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/veezo/commit/3c89bf6922c55e99d31a368e385e62876eb6134d\">3c89bf6</a>\n- <a href=\"https://github.com/rivethorn/veezo/commit/e82ffdd8301aba6cbd9446c2b180d16b7ae64a2d\">e82ffdd</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "public-keys-4",
+    "tier": 4,
+    "desc": "I have four public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
   }
 ]

@@ -33,7 +33,6 @@ and sometimes with
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/winter-solstice-commits.md"><img src="https://my-badges.github.io/my-badges/winter-solstice-commits.png" alt="I commit in the Winter solstice." title="I commit in the Winter solstice." width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
@@ -42,4 +41,5 @@ and sometimes with
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/friday-13.md"><img src="https://my-badges.github.io/my-badges/friday-13.png" alt="I committed on Friday the 13th, One… By One…" title="I committed on Friday the 13th, One… By One…" width="64"></a>
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
+<a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
 <!-- my-badges end -->
