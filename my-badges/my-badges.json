@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 113 times)\n2. update (used 73 times)\n3. fix (used 58 times)\n4. readme.md (used 57 times)\n5. remove (used 31 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 114 times)\n2. update (used 73 times)\n3. fix (used 58 times)\n4. readme.md (used 57 times)\n5. remove (used 31 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/sh-bot/commit/f11316a6357fb9c27049aac0e58d165dbf91ad4f\">f11316a</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/dotux/commit/ead5da8806a9470f20ec1e12a31ca8a8362d646b\">ead5da8</a>\n- <a href=\"https://github.com/rivethorn/sh-bot/commit/f11316a6357fb9c27049aac0e58d165dbf91ad4f\">f11316a</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/77a312faf29ae33cfb342374ed6906b8725b122d\">77a312f</a>\n- <a href=\"https://github.com/rivethorn/compline/commit/6ed6267d24e6af58486313b82136258869c7a426\">6ed6267</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/dotux/commit/ead5da8806a9470f20ec1e12a31ca8a8362d646b\">ead5da8</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
   }
 ]
