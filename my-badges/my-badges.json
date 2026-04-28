@@ -119,17 +119,17 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "public-keys-3",
-    "tier": 3,
-    "desc": "I have three public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
     "id": "alien-day",
     "tier": 0,
     "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
     "body": "Commits:\n\n- <a href=\"https://github.com/rivethorn/dotux/commit/ead5da8806a9470f20ec1e12a31ca8a8362d646b\">ead5da8</a>",
     "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
