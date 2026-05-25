@@ -1,4 +1,4 @@
-### Software nthusiast
+### Software Enthusiast
 
 #### I write about my work and journey [over here](https://rivethorn.is-a.dev)
 
