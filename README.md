@@ -10,6 +10,3 @@ and sometimes with
 
 ![Static Badge](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Bun-black?style=for-the-badge&logo=bun)
-
-![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Static Badge](https://img.shields.io/badge/UV-black?style=for-the-badge&logo=uv)
