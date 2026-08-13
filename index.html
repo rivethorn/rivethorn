@@ -27,9 +27,12 @@
           root.setAttribute("data-theme", t);
           dark = t === "dark";
         } else {
+          // No saved choice: follow the OS. Apply dark explicitly so the dark
+          // theme (which is keyed off [data-theme="dark"]) paints on first view.
           dark =
             window.matchMedia &&
             window.matchMedia("(prefers-color-scheme: dark)").matches;
+          if (dark) root.setAttribute("data-theme", "dark");
         }
         var fav = document.querySelector("link#favicon");
         if (fav)

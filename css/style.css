@@ -14,6 +14,24 @@
   --table-stripe: #f9fafb;
 }
 
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #171311;
+    --bg-alt: #201b19;
+    --fg: #e6d5c2;
+    --fg-muted: #a09384;
+    --accent: #fcba81;
+    --accent-text: #0f0c0a;
+    --card-bg: #201b19;
+    --code-bg: #0f0c0a;
+    --nav-bg: #171311;
+    --footer-bg: #171311;
+    --link: #ea9875;
+    --hover-bg: #362f2c;
+    --table-stripe: #201b19;
+  }
+}
+
 [data-theme="dark"] {
   --bg: #171311;
   --bg-alt: #201b19;
