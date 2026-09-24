@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/head.jpg" alt="Rivethorn" style="width: 100%; max-width: 520px; height: auto; display: block;"/>
+    <img src="assets/head.jpg" alt="Rivethorn" style="width: 70%; max-width: 520px; height: auto; display: block;"/>
     <h3>pragmatic paradigm</h3>
 </div>
 
