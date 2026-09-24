@@ -5,4 +5,4 @@
 
 open-source developer; focusing on system tools, low-level concepts, and programming languages.
 
-i like crafting great experiences.
+i try to craft great experiences.
